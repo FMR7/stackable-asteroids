@@ -1,0 +1,9 @@
+{
+    "name": "stackable-asteroids",
+    "version": "1.0.0",
+    "title": "Stackable Asteroids",
+    "author": "FMR",
+    "factorio_version": "2.0",
+    "description": "Asteroids can now be stacked.",
+    "dependencies": ["space-age >= 2.0.0"]
+  }

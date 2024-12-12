@@ -4,6 +4,6 @@
     "title": "Stackable Asteroids",
     "author": "FMR",
     "factorio_version": "2.0",
-    "description": "Asteroids can now be stacked.",
+    "description": "Asteroids can now be stacked, allows belt stacking.\nDefault stack size 50, configurable through mod settings.",
     "dependencies": ["space-age >= 2.0.0"]
   }

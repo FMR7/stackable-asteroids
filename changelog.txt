@@ -9,5 +9,5 @@ Date: 2024-12-09
 Version: 1.1.0
 Date: 2026-06-30
   Compatibility:
-    - Added version upgrade to 2.1
+    - Upgraded version to 2.1
 ---------------------------------------------------------------------------------------------------
